@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nasrinmgh
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning wordpress
-- 💞️ I’m looking to collaborate on website design
+- 👀 I’m interested in programming and mostly backend development
+- 🌱 I’m currently learning fullstack wordpress development
+- 💞
 - 📫 How to reach me: nasrinmohaghegh98@gmail.com 
 - 😄 Pronouns: she
 - ⚡ Fun fact: I am a cat lover
