@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nasrinmgh
-- 👀 I’m interested in programming and mostly backend development
-- 🌱 I’m currently learning fullstack wordpress development
-- 💞
+- 👋 Hi, I’m Nasrin and come from Iran
+- 👀 I’m interested in fullstack programming/web development
+- 🌱 I’m currently learning front-end development
 - 📫 How to reach me: nasrinmohaghegh98@gmail.com 
 - 😄 Pronouns: she
 - ⚡ Fun fact: I am a cat lover
